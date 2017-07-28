@@ -1,4 +1,4 @@
 import os
 class DevelopmentConfig(object):
-    SQLALCHEMY_DATABASE_URI = "postgresql://ubuntu:thinkful@localhost:5432/ad_tool"
+    SQLALCHEMY_DATABASE_URI = "postgresql://ubuntu:thinkful@localhost:5432/ad_tool-jake"
     DEBUG = True
